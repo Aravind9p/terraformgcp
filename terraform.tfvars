@@ -1,0 +1,6 @@
+region      = "us-central1"
+zone        = "us-central1-b"
+gcp_project = "tfarv-315808"
+instance_name = "gcpinstance"
+machine_type  = "f1-micro"
+image         = "ubuntu-os-cloud/ubuntu-1804-lts"
